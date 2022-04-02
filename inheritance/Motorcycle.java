@@ -1,7 +1,7 @@
 package io.inheritance;
 
 class Motorcycle{
-     private int gear;
+     protected int gear;
      protected int speed;
 
      public Motorcycle(int startgear, int startspeed) {
